@@ -1,0 +1,61 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ali Frikha\\source\\repos\\GestionProduit\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2B57AAFE-3468-4F87-B880-D459B35EE251}|GestionProduit.csproj|c:\\users\\ali frikha\\source\\repos\\gestionproduit\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B57AAFE-3468-4F87-B880-D459B35EE251}|GestionProduit.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6395C847-D741-48B0-AECB-C97CE216798B}|..\\GestionProduit.Core\\GestionProduit.Core.csproj|c:\\users\\ali frikha\\source\\repos\\gestionproduit.core\\service\\csvfileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CsvFileService.cs",
+              "DocumentMoniker": "C:\\Users\\Ali Frikha\\source\\repos\\GestionProduit.Core\\Service\\CsvFileService.cs",
+              "RelativeDocumentMoniker": "..\\GestionProduit.Core\\Service\\CsvFileService.cs",
+              "ToolTip": "C:\\Users\\Ali Frikha\\source\\repos\\GestionProduit.Core\\Service\\CsvFileService.cs",
+              "RelativeToolTip": "..\\GestionProduit.Core\\Service\\CsvFileService.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAcwFQAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T11:01:54.363Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ali Frikha\\source\\repos\\GestionProduit\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Ali Frikha\\source\\repos\\GestionProduit\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T10:59:48.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
